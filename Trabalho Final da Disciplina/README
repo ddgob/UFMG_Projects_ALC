@@ -1,0 +1,7 @@
+Nesse trabalho, tivemos a tarefa de identificar uma aplicação prática para os métodos estudados durante a disciplina de álgebra linear computacional.
+
+Assim, propus que uma possível aplicação dos métodos estudados nessa disciplina seja a determinação do melhor ator para o papel de um personagem da vida real. Resumidamente, usaremos a decomposição espectral e SVD para encontrar o eigenface da pessoa da vida real que o ator deve reencenar, fazemos o mesmo processo para os candidatos ao papel, e depois fazemos um cálculo do RMSE. Guardamos esse RMSE e mais todos os atributos citados anteriormente (como qualidade de atuação do ator, alor máximo a ser gasto com o salário desse ator, etc...) em uma matriz tall thin com todos os candidatos e depois aplicamos o PCA a fim de plotar cada candidato em um espaço 2d para que a análise desses dados seja facilitada.
+
+Segue o link do vídeo expliando a solução apresentada no trabalho:
+
+https://youtu.be/shEu298Ojag
